@@ -194,3 +194,9 @@ body {
     background: var(--mainPink);
     color: var(--mainBlack);
   }
+  /*Footer*/
+  .rodape{
+    margin-top: 0.7rem;
+    text-align: center;
+    line-height: 3.75rem; 
+  }
