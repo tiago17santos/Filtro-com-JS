@@ -7,6 +7,7 @@
   --mainBlack: #000;
   --yellowTrans: rgba(249, 228, 148, 0.5);
   --mainGrey: rgb(238, 238, 238);
+  --mainRed: #ff0000;
 }
 
 body {
@@ -199,4 +200,7 @@ body {
     margin-top: 0.7rem;
     text-align: center;
     line-height: 3.75rem; 
+  }
+  .heart {
+    color: var(--mainRed);
   }
